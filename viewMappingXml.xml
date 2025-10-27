@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated 6/16/2025 4:17:47 PM by TRH -->
+<Study xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EDCStudyID="D9727C00001" System="Rave" 
+IMPACTMonitoringDocCode="10.2.1" IMPACTStudyID="285285" InFormAdapterURL="http://AZ-SOLIS-prxlEDC.mdsol.com" 
+EDCStudyVersion="D9727C00001_001"> 
+  <VisitDesign>
+    <Visit IMPACTVisitID="PSCRN" EDCVisitID="PSCRN" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT2.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="SCRN" EDCVisitID="SCRN" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="RSCRN" EDCVisitID="RSCRN" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="DUM_ENR" EDCVisitID="V1" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C1D1" EDCVisitID="V1" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C1D15" EDCVisitID="V1D15" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C2D1" EDCVisitID="V2" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C2D15" EDCVisitID="V2D15" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C3D1" EDCVisitID="V3" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C3D15" EDCVisitID="V3D15" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C4D1" EDCVisitID="V4" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C5D1" EDCVisitID="V5" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C6D1" EDCVisitID="V6" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C7D1" EDCVisitID="V7" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C8D1" EDCVisitID="V8" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C9D1" EDCVisitID="V9" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C10D1" EDCVisitID="V10" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C11D1" EDCVisitID="V11" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C12D1" EDCVisitID="V12" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C13D1" EDCVisitID="V13" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C14D1" EDCVisitID="V14" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C15D1" EDCVisitID="V15" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C16D1" EDCVisitID="V16" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C17D1" EDCVisitID="V17" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C18D1" EDCVisitID="V18" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C19D1" EDCVisitID="V19" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C20D1" EDCVisitID="V20" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C21D1" EDCVisitID="V21" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C22D1" EDCVisitID="V22" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C23D1" EDCVisitID="V23" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="C24D1" EDCVisitID="V24" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="RCSTBLN" EDCVisitID="RECISTBLN" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="EOT" EDCVisitID="EOT" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+	 <Visit IMPACTVisitID="RCSTFUN" EDCVisitID="RECISTFUN" Repeating="Y">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="SAFETY" EDCVisitID="SAFETY" Repeating="N">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="PSA" EDCVisitID="PSA" Repeating="Y">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="MFS" EDCVisitID="MFS" Repeating="Y">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="SUR_FU" EDCVisitID="SURVIVAL" Repeating="Y">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+	 <Visit IMPACTVisitID="RECIST2" EDCVisitID="RECIST2" Repeating="Y">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+    <Visit IMPACTVisitID="UNSC" EDCVisitID="UNS" Repeating="Y">
+      <Attribute IMPACTAttributeID="ActualVisitDate" EDCAttributeID="VISIT1.VIS_DAT"/>
+    </Visit>
+  </VisitDesign>
+  <SubjectAttributes>
+    <Attribute IMPACTAttributeID="UniqueNumber" EDCVisitID="SUBJECT" EDCAttributeID="ENROL.SUBJECT" />
+    <Attribute IMPACTAttributeID="TransferSubjectTriggerField" EDCVisitID="COMMON" EDCAttributeID="CMDM.SCRN_DATE" />
+    <Attribute IMPACTAttributeID="RandomizationNumber" EDCVisitID="COMMON" EDCAttributeID="CMDM.RANDNO" />
+    <Attribute IMPACTAttributeID="RandomizationDate" EDCVisitID="COMMON" EDCAttributeID="CMDM.RAND_DATE" />
+    <Attribute IMPACTAttributeID="TreatmentWithdrawalDate" EDCVisitID="COMMON" EDCAttributeID="CMDM.EOT_DT" />
+    <Attribute IMPACTAttributeID="TreatmentWithdrawalReason" EDCVisitID="COMMON" EDCAttributeID="CMDM.EOT_DESC"> 
+      <Value>
+        <IMPACTValue>withdrawn_consent__c</IMPACTValue>
+        <EDCValue>1</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>lost_to_followup__c</IMPACTValue>
+        <EDCValue>C48227</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>aesae__c</IMPACTValue>
+        <EDCValue>C41331</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>sponsor_decision__c</IMPACTValue>
+        <EDCValue>C49632</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>non_compliance__c</IMPACTValue>
+        <EDCValue>3</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>death__c</IMPACTValue>
+        <EDCValue>C28554</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>disease_progression__c</IMPACTValue>
+        <EDCValue>22</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>disease_progression__c</IMPACTValue>
+        <EDCValue>23</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>legacy_other__c</IMPACTValue>
+        <EDCValue>C17649</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>legacy_other__c</IMPACTValue>
+        <EDCValue>16</EDCValue>
+      </Value>
+    </Attribute>
+    <Attribute IMPACTAttributeID="StudyWithdrawalDate" EDCVisitID="COMMON" EDCAttributeID="CMDM.EOSWD_DT" />
+    <Attribute IMPACTAttributeID="StudyWithdrawalReason" EDCVisitID="COMMON" EDCAttributeID="CMDM.EOSWD_DESC"> 
+      <Value>
+        <IMPACTValue>withdrawn_consent__c</IMPACTValue>
+        <EDCValue>C142349</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>withdrawn_consent__c</IMPACTValue>
+        <EDCValue>C49634</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>lost_to_followup__c</IMPACTValue>
+        <EDCValue>C48227</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>aesae__c</IMPACTValue>
+        <EDCValue>C41331</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>sponsor_decision__c</IMPACTValue>
+        <EDCValue>C49632</EDCValue>
+      </Value>
+	  <Value>
+        <IMPACTValue>non_compliance__c</IMPACTValue>
+        <EDCValue>C49631</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>eligibility_violation__c</IMPACTValue>
+        <EDCValue>C50996</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>death__c</IMPACTValue>
+        <EDCValue>C28554</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>drug_efficacy__c</IMPACTValue>
+        <EDCValue>C48226</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>site_termination__c</IMPACTValue>
+        <EDCValue>C106576</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>disease_progression__c</IMPACTValue>
+        <EDCValue>C35571</EDCValue>
+      </Value>
+	  <Value>
+        <IMPACTValue>disease_progression__c</IMPACTValue>
+        <EDCValue>C38155</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>investigator_decision__c</IMPACTValue>
+        <EDCValue>C48250</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>screening_failure__c</IMPACTValue>
+        <EDCValue>C49628</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>other__c</IMPACTValue>
+        <EDCValue>2</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>other__c</IMPACTValue>
+        <EDCValue>C105448</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>other__c</IMPACTValue>
+        <EDCValue>C17649</EDCValue>
+      </Value>
+    </Attribute>
+  </SubjectAttributes>
+  <SAEAttributes>
+    <Attribute IMPACTAttributeID="Description" EDCVisitID="AE" EDCAttributeID="AE.AETERM" />
+    <Attribute IMPACTAttributeID="OnsetDate" EDCVisitID="AE" EDCAttributeID="AE.AESTDAT" />
+    <Attribute IMPACTAttributeID="ResolvedDate" EDCVisitID="AE" EDCAttributeID="AE.AEENDAT" />
+    <Attribute IMPACTAttributeID="SeriousEventFlag" EDCVisitID="AE" EDCAttributeID="AE.AESER"> 
+      <Value>
+        <IMPACTValue>Y</IMPACTValue>
+        <EDCValue>C49488</EDCValue>
+      </Value>
+      <Value>
+        <IMPACTValue>N</IMPACTValue>
+        <EDCValue>C49487</EDCValue>
+      </Value>
+    </Attribute>
+  </SAEAttributes>
+</Study>
